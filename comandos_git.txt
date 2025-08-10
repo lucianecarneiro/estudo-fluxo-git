@@ -1,0 +1,5 @@
+Comandos Essenciais:
+git init: Inicializa um novo repositório Git em um diretório existente. 
+git add: Adiciona arquivos ou alterações ao "staging area" (área de preparação) para serem incluídos no próximo commit. 
+git commit: Cria um novo commit com as alterações preparadas na área de staging, adicionando-as ao histórico do repositório. 
+git status: Mostra o estado atual dos arquivos no seu diretório de trabalho, indicando quais arquivos foram modificados, adicionados ou estão prontos para commit. 
