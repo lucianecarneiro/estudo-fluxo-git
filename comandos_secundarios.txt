@@ -1,0 +1,7 @@
+## Comandos Adicionais:
+git config  Define configurações globais ou locais do Git. 
+git remote  Gerencia os repositórios remotos associados ao seu repositório local. 
+git log     Exibe o histórico de commits do repositório. 
+git diff    Mostra as diferenças entre arquivos ou versões do seu código. 
+git reset   Desfaz alterações, tanto no staging area quanto no repositório local. 
+git stash   Armazena temporariamente alterações não commitadas, permitindo que você trabalhe em outra coisa e depois retome as alterações. 
