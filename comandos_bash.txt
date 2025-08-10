@@ -1,8 +1,9 @@
 Os comandos básicos do Bash para manipular arquivos e diretórios incluem: 
-ls (lista arquivos e diretórios)
-cd (muda de diretório), mkdir (cria diretório)
-rm (remove arquivos e diretórios)
-cp (copia arquivos e diretórios)
-mv (move ou renomeia arquivos e diretórios)
-pwd (Mostra o caminho absoluto do diretório atual)
-cat (Exibe o conteúdo de um arquivo)
+ls      lista arquivos e diretórios
+cd      muda de diretório), mkdir (cria diretório
+rm      remove arquivos e diretórios
+cp      copia arquivos e diretórios
+mv      move ou renomeia arquivos e diretórios
+pwd     mostra o caminho absoluto do diretório atual
+cat     exibe o conteúdo de um arquivo
+rm -f   remove de forma recursiva e forçada todos os diretórios
