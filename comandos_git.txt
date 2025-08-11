@@ -1,4 +1,4 @@
-## Comandos Essenciais:
+## Comandos Essenciais no Git:
 git init    inicializa um novo repositório Git em um diretório existente. 
 git add     adiciona arquivos ou alterações ao "staging area" (área de preparação) para serem incluídos no próximo commit. 
 git commit  cria um novo commit com as alterações preparadas na área de staging, adicionando-as ao histórico do repositório. 
@@ -6,7 +6,7 @@ git status  mostra o estado atual dos arquivos no seu diretório de trabalho, in
 git log     mostra todo o histórico de commits
 
 
-## Fluxos de trabalho:
+## Fluxos de Trabalho no Git:
 1. criar diretório do projeto                   mkdir <nome_da_pasta>
 2. iniciar o git dentro do diretório criado     git init .
 3. editar, criar ou copiar arquivos             

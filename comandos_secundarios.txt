@@ -1,4 +1,4 @@
-## Comandos Adicionais:
+## Comandos Adicionais no Git:
 git config  Define configurações globais ou locais do Git. 
 git remote  Gerencia os repositórios remotos associados ao seu repositório local. 
 git log     Exibe o histórico de commits do repositório. 

@@ -1,4 +1,4 @@
-Os comandos básicos do Bash para manipular arquivos e diretórios incluem: 
+## Comandos básicos do Bash para manipular arquivos e diretórios: 
 ls      lista arquivos e diretórios
 cd      muda de diretório), mkdir (cria diretório
 rm      remove arquivos e diretórios
