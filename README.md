@@ -1,6 +1,6 @@
 # Estudos Git e GitHub 2025
 
-Projeto de estudos de Git e GitHub, realizados através do curso do Téo Calvo, disponibilizado através da plataforma Youtube ([link da playlist](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)).
+Projeto de estudos de Git e GitHub, realizados através do curso do Téo Calvo, disponibilizado através da plataforma Youtube no canal [Téo Me Why](https://www.youtube.com/@teomewhy) ([link da playlist](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)).
 
 ## Principais tópicos abordados
 - Versionamento de código e repositórios remotos com Git;  
